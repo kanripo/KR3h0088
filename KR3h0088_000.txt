@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 宣德鼎彝譜
-#+DATE: 2019-03-29 21:22:12.230867
+#+DATE: 2019-03-29 21:22:12.291425
 #+PROPERTY: ID KR3h0088
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3h0088_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部九¶
@@ -29,7 +29,7 @@
 <pb:KR3h0088_WYG_000-2a>¶
 給物料䟽及禮工部等議南北郊至武學武¶
 成殿鼎彛名目四卷載太廟至内府宫殿鼎¶
-&KR0212;名目五卷載𠡠賜兩京衙門至天下名山¶
+彛名目五卷載𠡠賜兩京衙門至天下名山¶
 勝蹟鼎彛名目工部鑄冶告成及補鑄二䟽¶
 並褒漿勅一道六七八卷通為詳釋鼎彛名¶
 義凡某所某器倣某某式皆䟽其事實尺寸¶
